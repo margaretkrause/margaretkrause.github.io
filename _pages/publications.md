@@ -4,7 +4,9 @@ title: Publications
 permalink: /Publications/
 ---
 
-### Step 1) Fork Reverie to your User Repository
+### 2020
+
+<b>MR Krause</b>, S Mondal, J Crossa, RP Singh, F Pinto, A Haghighattalab, S Shrestha, J Rutkoski, MA Gore, ME Sorrells, J Poland (2020) Aerial high-throughput phenotyping enabling indirect selection for grain yield at the early-generation seed-limited stages in breeding programs. Crop Science [https://doi.org/10.1002/csc2.20259](https://doi.org/10.1002/csc2.20259).
 
 Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
 
