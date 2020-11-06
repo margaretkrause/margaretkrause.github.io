@@ -18,4 +18,4 @@ J Crossa, BJ Villar-Hernández, S Perez-Elizalde, I García-Calvillo, J Martini,
 
 ### Other Publications
 
-A Dobbels, <b>M Krause<b> S McConaughy, A Kyanam, M Breitzman, G Pucci, T Abadie, J Rauscher (2020) Plant science symposia series student advisory council hosts virtual plant-breeding symposium. CSA News 65(7): 39-41. [doi.org/10.1002/csan.20203](https://doi.org/10.1002/csan.20203). 
+A Dobbels, <b>M Krause</b> S McConaughy, A Kyanam, M Breitzman, G Pucci, T Abadie, J Rauscher (2020) Plant science symposia series student advisory council hosts virtual plant-breeding symposium. CSA News 65(7): 39-41. [doi.org/10.1002/csan.20203](https://doi.org/10.1002/csan.20203). 
