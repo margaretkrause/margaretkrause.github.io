@@ -1,53 +1,21 @@
 ---
 layout: page
-title: Publications
+title: Peer-Reviewed Publications
 permalink: /Publications/
 ---
 
 ### 2020
 
-<b>MR Krause</b>, S Mondal, J Crossa, RP Singh, F Pinto, A Haghighattalab, S Shrestha, J Rutkoski, MA Gore, ME Sorrells, J Poland (2020) Aerial high-throughput phenotyping enabling indirect selection for grain yield at the early-generation seed-limited stages in breeding programs. Crop Science [https://doi.org/10.1002/csc2.20259](https://doi.org/10.1002/csc2.20259).
+<b>MR Krause</b>, S Mondal, J Crossa, RP Singh, F Pinto, A Haghighattalab, S Shrestha, J Rutkoski, MA Gore, ME Sorrells, J Poland (2020) Aerial high-throughput phenotyping enabling indirect selection for grain yield at the early-generation seed-limited stages in breeding programs. Crop Science. [doi.org/10.1002/csc2.20259](https://doi.org/10.1002/csc2.20259).
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+<b>MR Krause</b>, S Crossman, T DuMond, R Lott, J Swede, S Arliss, R Robbins, D Ochs, MA Gore (2020) Random forest regression for optimizing variable planting rates for corn and soybean using topographical and soil data. Agronomy Journal. [doi.org/10.1002/agj2.20442](https://doi.org/10.1002/agj2.20442).
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+J Crossa, BJ Villar-Hernández, S Perez-Elizalde, I García-Calvillo, J Martini, F Toleda, P Pérez-Rodríguez, <b>M Krause</b>, G Covarrubias-Pazaran (2020) Application of multi-trait Bayesian decision theory for parental selection in genomic selection. In review. 
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+### 2019
 
-### Step 2) Customize and view your site
+<b>MR Krause</b>, L González-Pérez, J Crossa, P Pérez-Rodríguez, O Montesinos-López, RP Singh, S Dreisigacker, J Poland, J Rutkoski, M Sorrells, MA Gore, S Mondal (2019) Hyperspectral reflectance-derived relationship matrices for genomic prediction of grain yield in wheat. G3: Genes, Genomes, Genetics 9(4): 1231-1247. [doi.org/10.1534/g3.118.200856](https://doi.org/10.1534/g3.118.200856). 
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+### Other Publications
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
-
-### Step 3) Publish your first blog post
-
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
-
-> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
-
-## Using Categories in Reverie
-
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
-
-For adding single category:
-
-```md
-categories: JavaScript
-```
-
-For adding multiple categories:
-
-```md
-categories: [PHP, Laravel]
-```
-
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
-
-## RSS
-
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
-
-## Sitemap
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
+A Dobbels, <b>M Krause<b> S McConaughy, A Kyanam, M Breitzman, G Pucci, T Abadie, J Rauscher (2020) Plant science symposia series student advisory council hosts virtual plant-breeding symposium. CSA News 65(7): 39-41. [doi.org/10.1002/csan.20203](https://doi.org/10.1002/csan.20203). 
